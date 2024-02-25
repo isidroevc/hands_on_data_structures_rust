@@ -1,3 +1,7 @@
+use ::data_structures_book::trees;
+use data_structures_book::trees::red_black_tree;
 fn main() {
-    println!("Hello, world!");
+    
+
+    red_black_tree::test_tree_against_mine();
 }

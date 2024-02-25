@@ -1,0 +1,15 @@
+/home/isidro/rust/data_structures_book/sharpversions/bin/Debug/net8.0/sharpversions
+/home/isidro/rust/data_structures_book/sharpversions/bin/Debug/net8.0/sharpversions.deps.json
+/home/isidro/rust/data_structures_book/sharpversions/bin/Debug/net8.0/sharpversions.runtimeconfig.json
+/home/isidro/rust/data_structures_book/sharpversions/bin/Debug/net8.0/sharpversions.dll
+/home/isidro/rust/data_structures_book/sharpversions/bin/Debug/net8.0/sharpversions.pdb
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.GeneratedMSBuildEditorConfig.editorconfig
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.AssemblyInfoInputs.cache
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.AssemblyInfo.cs
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.csproj.CoreCompileInputs.cache
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.sourcelink.json
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.dll
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/refint/sharpversions.dll
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.pdb
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/sharpversions.genruntimeconfig.cache
+/home/isidro/rust/data_structures_book/sharpversions/obj/Debug/net8.0/ref/sharpversions.dll
